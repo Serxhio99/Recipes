@@ -18,3 +18,4 @@ A database system (MySQL) for storing user accounts and recipes.
 
 
 INSTALL ALL THE PACKAGES THAT ARE LISTED ON: Pipfile
+Replace the fields in mysqlconnection.py file.
